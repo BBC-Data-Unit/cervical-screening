@@ -22,7 +22,7 @@ In October 2018 we [reported that three million women across England have not ha
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/D31F/production/_103574045_datapic-cervicaldatapic-y44fx-nc.png)
 
-* Map: Rates of cervical screening take-up in London
-* Map: Cervical screening coverage across England
+* Map: Rates of cervical screening take-up in London (made using QGIS 2.6.1)
+* Map: Cervical screening coverage across England (made using QGIS 2.6.1)
 * Multiple bar chart: Lowest rates of screening for cervical cancer
 * Infographic: Cervical cancer in England
